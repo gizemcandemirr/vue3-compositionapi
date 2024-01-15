@@ -1,5 +1,5 @@
-<template>Expance Tracker</template>
-
-<script></script>
-
-<style></style>
+<template>
+    <h2>
+        Expance Tracker
+    </h2>
+</template>
